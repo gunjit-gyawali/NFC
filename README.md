@@ -43,4 +43,5 @@ Event check-in or landing page
 Quick-access links
 
 **License**
+
 This project is open for personal use and modification. Add a license if you plan to share or distribute it publicly.
