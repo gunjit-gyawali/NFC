@@ -1,13 +1,13 @@
-let password = "1111";
-let pass = prompt("Enter Password: ")
+// let password = "1111";
+// let pass = prompt("Enter Password: ")
 
-while (true) {
-  if (pass != password) {
-    pass = prompt("Wrong Password (Try Again): ")
-  } else {
-    break
-  }
-}
+// while (true) {
+//   if (pass != password) {
+//     pass = prompt("Wrong Password (Try Again): ")
+//   } else {
+//     break
+//   }
+// }
 
 document.getElementById("save-contact").addEventListener("click", function () {
   const vCardData = `
